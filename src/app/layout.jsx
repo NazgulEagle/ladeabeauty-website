@@ -8,6 +8,11 @@ export const metadata = {
     "Unleash Your Inner Goddess. La Dea Beauty in Brugge biedt gelnagels, wimperextensions, lash lift, wenkbrauwbehandelingen en tandenbleaching. Boek nu!",
   keywords:
     "La Dea Beauty, Brugge, gelnagels, wimperextensions, lash lift, wenkbrauwen, tandenbleaching, beauty salon",
+  robots: {
+    index: false,
+    follow: false,
+    googleBot: { index: false, follow: false },
+  },
   openGraph: {
     title: "La Dea Beauty | Unleash Your Inner Goddess",
     description:

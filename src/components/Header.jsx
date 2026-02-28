@@ -10,6 +10,7 @@ const navItems = [
   { label: "Lashes", href: "/lashes" },
   { label: "Brows", href: "/brows" },
   { label: "Teeth Whitening", href: "/teeth-whitening" },
+  { label: "PMU", href: "/pmu" },
   { label: "About Me", href: "/about-me" },
 ];
 
